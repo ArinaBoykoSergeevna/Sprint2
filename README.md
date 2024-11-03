@@ -1,1 +1,2 @@
-# Yandex_Practicum
+@ Бойко Арина Сергеевна
+email: abc.arinaBoyko@yandex.ru
